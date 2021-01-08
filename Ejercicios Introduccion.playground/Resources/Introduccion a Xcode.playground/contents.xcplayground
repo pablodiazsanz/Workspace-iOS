@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='00_Variables'/>
+        <page name='01_Operadores'/>
+        <page name='02_Tipos'/>
+    </pages>
+</playground>

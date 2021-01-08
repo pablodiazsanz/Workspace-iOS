@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Ejercicios'/>
+        <page name='Ejercicio 1'/>
+        <page name='Ejercicio 2'/>
+        <page name='Ejercicio 3'/>
+        <page name='Ejercicio 4'/>
+        <page name='Ejercicio 5'/>
+        <page name='Ejercicio 6'/>
+        <page name='Ejercicio 7'/>
+        <page name='Ejercicio 8'/>
+        <page name='Ejercicio 9'/>
+    </pages>
+</playground>
